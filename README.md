@@ -6,6 +6,12 @@ Deploying a Security Information and Event Management (SIEM) solution such as Mi
 <br />
 </p>
 
-
-Configuring Azure Virtual Machine
-< img src="https://i.imgur.com/cAVcYfj.png" height "80%" width "80%" />
+<p align="center">
+Configuring Azure Virtual Machine and Allow RDP connections 
+</p>
+<img src="https://i.imgur.com/cAVcYfj.png">
+<br />
+<p align="center">
+Configuring Azure Sentinel and Install Security Events from the Content Hub
+</p>
+<img src="https://i.imgur.com/KZis98U.png">
