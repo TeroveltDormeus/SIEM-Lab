@@ -8,3 +8,4 @@ Deploying a Security Information and Event Management (SIEM) solution such as Mi
 
 
 Configuring Azure Virtual Machine
+< img src="https://i.imgur.com/cAVcYfj.png" height "80%" width "80%" />
