@@ -15,3 +15,13 @@ Configuring Azure Virtual Machine and Allow RDP connections
 Configuring Azure Sentinel and Install Security Events from the Content Hub
 </p>
 <img src="https://i.imgur.com/KZis98U.png">
+</p>
+<p align="center">
+Adding two alert rules to detect successful and failed RDP logins
+</p>
+<img src="https://i.imgur.com/CQABZWP.png">
+</p>
+<p align="center">
+315 Alerts of Failed and Successful RDP logins
+</p>
+<img src="https://i.imgur.com/mb6EFO4.png">
